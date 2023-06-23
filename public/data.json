@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "NONE AC SINGLE ROOM",
+        "type": "single",
+        "description": "Available With Semi Double Bed, Cabinet, Sofa , Chair, Table , TV & Attached Bathroom. Branded Tooth Brush & Paste, Toilet Soap, Shampoo, Facial Tissue Included With Room Service .",
+        "price": 750,
+        "image": "https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t1.6435-9/97977189_138285931111769_8088863778600386560_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=GQrRDiuESm4AX8GBkLO&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfCZvqis_idQnBiZyojf-n1Ftjk8LmGA5iftpIETOao5dQ&oe=64B7FF49"
+    },
+    {
+        "id": 2,
+        "title": "NONE AC SINGLE ROOM",
+        "type": "single",
+        "description": "Available With Semi Double Bed, Cabinet, Sofa , Chair, Table , TV & Attached Bathroom. Branded Tooth Brush & Paste, Toilet Soap, Shampoo Included With Room Service.",
+        "price": 700,
+        "image": "https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t1.6435-9/96768460_138284794445216_8389888368405643264_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=AitfgllujPcAX8dJ0LS&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfDWWRlMY7wuU6_4s3aR4WekaNX5bkaX0gLyuaaSu-jimw&oe=64B7D6C5"
+    },
+    {
+        "id": 3,
+        "title": "NONE AC TWIN BED ROOM",
+        "type": "dabble",
+        "description": "Available With Two Individual Bed, Cabinet, Sofa , Table , TV & Attached Bathroom Branded Tooth Brush & Paste,Toilet Soap, Shampoo and Facial Tissue Included With Room Service.",
+        "price": 1000,
+        "image": "https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t1.6435-9/96585163_138284154445280_9090682492578430976_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=46d0jgwCIDAAX94aHec&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfATucM53Bbq7WihnqbQfsj_BAfStHUfTij-0Vyc8U3AFA&oe=64B7E0E0"
+    },
+    {
+        "id": 4,
+        "title": "AC TWIN BED ROOM",
+        "type": "dabble",
+        "description":"Available With Two Individual Bed,Cabinet,Sofa,Table,TV & Attached Bathroom. Branded Tooth Brush & Paste, Toilet Soap, Shampoo, Mineral Water, Facial Tissue & Free Wifi Included With Room Service . (with Geyser)","price": 1800,
+        "image": "https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t1.6435-9/87738075_102515634688799_2207948545485438976_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=ZZvtqY5LbHAAX809L69&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfDislhxz3XwFa2gm9lKufz82j0RyygeHB5CwnIVMRQNGQ&oe=64B7EADF"
+    },
+    {
+        "id":5,
+        "title":"AC VIP ROOM (with Geyser).",
+        "type":"single",
+        "description":"Available With Semi Double Bed, Cabinet, Sofa , Table , TV & Attached Bathroom.Branded Tooth Brush & Paste, Toilet Soap, Shampoo, Mineral Water,  Facial Tissue & Free Wifi  Included With Room Service .",
+        "price":2000,
+        "image":"https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t1.6435-9/87655512_101843674755995_4353847591071383552_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=ICBPebLsRoUAX9xGYie&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfC2EtAiCjOlVVZKGOUgObT5cuhAuYBIfIWkZaUITDX9lA&oe=64B7E9E7"
+    }
+]
